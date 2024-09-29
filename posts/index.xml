@@ -6,8 +6,15 @@
     <description>Recent content in Posts on neoplonk blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 22:38:21 +0200</lastBuildDate>
     <atom:link href="https://neogomo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>View PDF</title>
+      <link>https://neogomo.github.io/posts/view-pdf/</link>
+      <pubDate>Sun, 29 Sep 2024 22:38:21 +0200</pubDate>
+      <guid>https://neogomo.github.io/posts/view-pdf/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://viewscreen.githubusercontent.com/view/pdf?browser=safari&amp;amp;bypass_fastly=true&amp;amp;color_mode=auto&amp;amp;commit=fd662afd4f0454a2e3fb3e974ed124532464f2ed&amp;amp;device=unknown_device&amp;amp;docs_host=https%3A%2F%2Fdocs.github.com&amp;amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6e656f676f6d6f2f6e656f676f6d6f2e6769746875622e696f2f666436363261666434663034353461326533666233653937346564313234353332343634663265642f706466732f4b61756668696c66655f495641522e706466&amp;amp;logged_in=true&amp;amp;nwo=neogomo%2Fneogomo.github.io&amp;amp;path=pdfs%2FKaufhilfe_IVAR.pdf&amp;amp;platform=mac&amp;amp;repository_id=864996232&amp;amp;repository_type=Repository&amp;amp;version=17#186de500-6482-4bdc-ac59-37f30e715c34&#34;&gt;Link to PDF here&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Introduction</title>
       <link>https://neogomo.github.io/posts/introduction/</link>
