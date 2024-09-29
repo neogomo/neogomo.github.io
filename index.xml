@@ -6,22 +6,8 @@
     <description>Recent content on neoplonk blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Sep 2024 21:33:07 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://neogomo.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Nextpost</title>
-      <link>https://neogomo.github.io/posts/nextpost/</link>
-      <pubDate>Sun, 29 Sep 2024 21:33:07 +0200</pubDate>
-      <guid>https://neogomo.github.io/posts/nextpost/</guid>
-      <description>&lt;p&gt;Erste Textzeile von Nextpost&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>This is the post title</title>
-      <link>https://neogomo.github.io/posts/mypost/</link>
-      <pubDate>Sun, 29 Sep 2024 20:28:10 +0200</pubDate>
-      <guid>https://neogomo.github.io/posts/mypost/</guid>
-      <description>&lt;p&gt;draft = true&#xA;+++&lt;/p&gt;&#xA;&lt;p&gt;This is some content&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{some code}&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
-    </item>
     <item>
       <title>Warsaw, Poland</title>
       <link>https://neogomo.github.io/photos/warsaw-poland/</link>
@@ -63,6 +49,20 @@
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://neogomo.github.io/photos/panaji-india-2/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/w/index.php?title=Panaji&amp;amp;oldid=949879387&#34;&gt;Panaji&lt;/a&gt;, formerly Panjim, is the capital of the Indian state of Goa and the headquarters of North Goa district. It lies on the banks of the Mandovi River estuary in the Ilhas de Goa sub-district (taluka). With a population of 114,759 in the metropolitan area, Panjim is Goa&amp;rsquo;s largest urban agglomeration, ahead of Margão and Vasco da Gama.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>https://neogomo.github.io/posts/what-is-hugo/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://neogomo.github.io/posts/what-is-hugo/</guid>
+      <description>&lt;p&gt;Hugo is an open-source project and lives by the work of its contributors. There are plenty of open issues, and we need your help to make Hugo even more awesome. You don&amp;rsquo;t need to be a Go guru to contribute to the project&amp;rsquo;s development.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What is Hugo</title>
+      <link>https://neogomo.github.io/posts/introduction/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://neogomo.github.io/posts/introduction/</guid>
+      <description>&lt;p&gt;Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
