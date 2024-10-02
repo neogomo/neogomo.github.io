@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on neoplonk blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://neogomo.github.io/posts/</link>
     <description>Recent content in Posts on neoplonk blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Sep 2024 15:50:35 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://neogomo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post for the Day</title>
-      <link>http://localhost:1313/posts/post-for-the-day/</link>
+      <link>https://neogomo.github.io/posts/post-for-the-day/</link>
       <pubDate>Mon, 30 Sep 2024 15:50:35 +0200</pubDate>
-      <guid>http://localhost:1313/posts/post-for-the-day/</guid>
+      <guid>https://neogomo.github.io/posts/post-for-the-day/</guid>
       <description>&lt;p&gt;A small post for today, Sep. 30th&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introduction</title>
-      <link>http://localhost:1313/posts/introduction/</link>
+      <link>https://neogomo.github.io/posts/introduction/</link>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/introduction/</guid>
+      <guid>https://neogomo.github.io/posts/introduction/</guid>
       <description>&lt;p&gt;Hugo is an open-source project and lives by the work of its contributors. There are plenty of open issues, and we need your help to make Hugo even more awesome. You don&amp;rsquo;t need to be a Go guru to contribute to the project&amp;rsquo;s development.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What is Hugo</title>
-      <link>http://localhost:1313/posts/what-is-hugo/</link>
+      <link>https://neogomo.github.io/posts/what-is-hugo/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/what-is-hugo/</guid>
+      <guid>https://neogomo.github.io/posts/what-is-hugo/</guid>
       <description>&lt;p&gt;Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.&lt;/p&gt;</description>
     </item>
   </channel>
