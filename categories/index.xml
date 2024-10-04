@@ -6,6 +6,14 @@
     <description>Recent content in Categories on neoplonk blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 19:42:59 +0200</lastBuildDate>
     <atom:link href="https://neogomo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://neogomo.github.io/categories/hugo/</link>
+      <pubDate>Fri, 04 Oct 2024 19:42:59 +0200</pubDate>
+      <guid>https://neogomo.github.io/categories/hugo/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

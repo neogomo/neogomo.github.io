@@ -6,21 +6,21 @@
     <description>Recent content on neoplonk blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Oct 2024 16:36:38 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 19:42:59 +0200</lastBuildDate>
     <atom:link href="https://neogomo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>https://neogomo.github.io/posts/lorem-ipsum/</link>
+      <pubDate>Fri, 04 Oct 2024 19:42:59 +0200</pubDate>
+      <guid>https://neogomo.github.io/posts/lorem-ipsum/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. &lt;!-- readmore --&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Welcome to October</title>
       <link>https://neogomo.github.io/posts/welcome-october/</link>
       <pubDate>Wed, 02 Oct 2024 16:36:38 +0200</pubDate>
       <guid>https://neogomo.github.io/posts/welcome-october/</guid>
-      <description>&lt;p&gt;So now it’s officially autumn, isn’t it?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Post for the Day</title>
-      <link>https://neogomo.github.io/posts/post-for-the-day/</link>
-      <pubDate>Mon, 30 Sep 2024 15:50:35 +0200</pubDate>
-      <guid>https://neogomo.github.io/posts/post-for-the-day/</guid>
-      <description>&lt;p&gt;A small post for today, Sep. 30th&lt;/p&gt;</description>
+      <description>&lt;p&gt;So it’s officially autumn now, isn’t it? &lt;!-- readmore --&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;overflow:hidden&#34;&gt;&lt;img src=&#34;autumn-leaves.jpg&#34; style=&#34;margin: 0 2em 2em 0; float: left; width:200px; height:auto; border:0&#34; width=&#34;380&#34; height=&#34;380&#34;&gt;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Ricoh GR</title>
@@ -135,6 +135,13 @@
       <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/w/index.php?title=Palace_of_Culture_and_Science&amp;amp;oldid=945815549&#34;&gt;Ricoh Pentax&lt;/a&gt; Shot with Ricoh GR.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Ricoh GR</title>
+      <link>https://neogomo.github.io/photos/bild101/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://neogomo.github.io/photos/bild101/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/w/index.php?title=Palace_of_Culture_and_Science&amp;amp;oldid=945815549&#34;&gt;Ricoh Pentax&lt;/a&gt; Shot with Ricoh GR.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Hel, Poland</title>
       <link>https://neogomo.github.io/photos/bild6/</link>
       <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
@@ -174,14 +181,14 @@
       <link>https://neogomo.github.io/posts/introduction/</link>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://neogomo.github.io/posts/introduction/</guid>
-      <description>&lt;p&gt;Hugo is an open-source project and lives by the work of its contributors. There are plenty of open issues, and we need your help to make Hugo even more awesome. You don&amp;rsquo;t need to be a Go guru to contribute to the project&amp;rsquo;s development.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hugo is an open-source project and lives by the work of its contributors. There are plenty of open issues, and we need your help to make Hugo even more awesome. You don&amp;rsquo;t need to be a Go guru to contribute to the project&amp;rsquo;s development. &lt;!-- readmore --&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>What is Hugo</title>
       <link>https://neogomo.github.io/posts/what-is-hugo/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://neogomo.github.io/posts/what-is-hugo/</guid>
-      <description>&lt;p&gt;Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.&lt;/p&gt;&#xA;&lt;p&gt;Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors. &lt;!-- readmore --&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ricoh GR</title>
