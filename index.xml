@@ -6,8 +6,22 @@
     <description>Recent content on neoplonk blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Oct 2024 19:42:59 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 18:54:02 +0200</lastBuildDate>
     <atom:link href="https://neogomo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diagonal Line</title>
+      <link>https://neogomo.github.io/posts/diagonal-line/</link>
+      <pubDate>Sun, 13 Oct 2024 18:54:02 +0200</pubDate>
+      <guid>https://neogomo.github.io/posts/diagonal-line/</guid>
+      <description>&lt;div class=&#34;box&#34; style=&#34;margin:1em 0 0!important;padding:0 !important;width:200px;height:200px;border:5px solid rgb(0,0,0);overflow:hidden&#34;&gt;&lt;div class=&#34;line&#34; style=&#34;margin-top:-2px;padding:0;width:calc(200px * sqrt(2));border-bottom:5px solid black;transform:rotate(45deg);transform-origin:left&#34;&gt;&lt;/div&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Metro Paris Collection</title>
+      <link>https://neogomo.github.io/posts/metro-paris-collection/</link>
+      <pubDate>Sun, 13 Oct 2024 15:04:39 +0200</pubDate>
+      <guid>https://neogomo.github.io/posts/metro-paris-collection/</guid>
+      <description>&lt;p&gt;Just added a gallery page dedicated solely to my &lt;a href=&#34;https://neogomo.github.io/metro-paris/&#34;&gt;Métro Paris Collection&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;!-- &#xA;&lt;i&gt;(will redirect there automatically in 5 sec.)&lt;/i&gt;&#xA;&lt;meta http-equiv=&#34;refresh&#34; content=&#34;5; URL=/metro-paris/&#34;&gt;&#xA;--&gt;&#xA;&lt;!-- &lt;div&gt;&lt;button style=&#34;font-size:16px&#34; onclick=&#34;history.back()&#34;&gt;Go Back&lt;/button&gt;&lt;/div&gt; --&gt;</description>
+    </item>
     <item>
       <title>Lorem Ipsum</title>
       <link>https://neogomo.github.io/posts/lorem-ipsum/</link>
@@ -16,11 +30,11 @@
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. &lt;!-- readmore --&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Welcome to October</title>
+      <title>Welcome October</title>
       <link>https://neogomo.github.io/posts/welcome-october/</link>
       <pubDate>Wed, 02 Oct 2024 16:36:38 +0200</pubDate>
       <guid>https://neogomo.github.io/posts/welcome-october/</guid>
-      <description>&lt;p&gt;So it’s officially autumn now, isn’t it? &lt;!-- readmore --&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;overflow:hidden&#34;&gt;&lt;img src=&#34;autumn-leaves.jpg&#34; style=&#34;margin: 0 2em 2em 0; float: left; width:200px; height:auto; border:0&#34; width=&#34;380&#34; height=&#34;380&#34;&gt;&lt;/div&gt;</description>
+      <description>&lt;p&gt;So it’s officially autumn now, isn’t it? &lt;!-- readmore --&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;overflow:hidden&#34;&gt;&lt;img src=&#34;autumn-leaves.jpg&#34; style=&#34;width:640px&#34; width=&#34;640&#34;&gt;&lt;/div&gt;&#xA;&lt;!--&#xA;&lt;div style=&#34;overflow:hidden&#34;&gt;&lt;img src=&#34;autumn-leaves.jpg&#34; style=&#34;margin: 0 2em 2em 0; float: left; width:200px; height:auto; border:0&#34; width=&#34;380&#34; height=&#34;380&#34;&gt;&lt;/div&gt;&#xA;--&gt;</description>
     </item>
     <item>
       <title>Ricoh GR</title>
@@ -42,6 +56,27 @@
       <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://neogomo.github.io/photos/bild21/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/w/index.php?title=Palace_of_Culture_and_Science&amp;amp;oldid=945815549&#34;&gt;Ricoh Pentax&lt;/a&gt; Shot with Ricoh GR.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Métro de Paris, No. 1</title>
+      <link>https://neogomo.github.io/metro-paris/no1/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://neogomo.github.io/metro-paris/no1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/w/index.php?title=Palace_of_Culture_and_Science&amp;amp;oldid=945815549&#34;&gt;Ricoh Pentax&lt;/a&gt; Valeria Frattini Portrait&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Métro de Paris, No. 2</title>
+      <link>https://neogomo.github.io/metro-paris/no2/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://neogomo.github.io/metro-paris/no2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/w/index.php?title=Palace_of_Culture_and_Science&amp;amp;oldid=945815549&#34;&gt;Ricoh Pentax&lt;/a&gt; Valeria Frattini Portrait&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Métro de Paris, No. 3</title>
+      <link>https://neogomo.github.io/metro-paris/no3/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://neogomo.github.io/metro-paris/no3/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/w/index.php?title=Palace_of_Culture_and_Science&amp;amp;oldid=945815549&#34;&gt;Ricoh Pentax&lt;/a&gt; Valeria Frattini Portrait&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ricoh GR</title>

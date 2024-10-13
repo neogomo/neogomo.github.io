@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Season of the Year on neoplonk blog</title>
+    <link>https://neogomo.github.io/tags/season-of-the-year/</link>
+    <description>Recent content in Season of the Year on neoplonk blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Oct 2024 16:36:38 +0200</lastBuildDate>
+    <atom:link href="https://neogomo.github.io/tags/season-of-the-year/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome October</title>
+      <link>https://neogomo.github.io/posts/welcome-october/</link>
+      <pubDate>Wed, 02 Oct 2024 16:36:38 +0200</pubDate>
+      <guid>https://neogomo.github.io/posts/welcome-october/</guid>
+      <description>&lt;p&gt;So it’s officially autumn now, isn’t it? &lt;!-- readmore --&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;overflow:hidden&#34;&gt;&lt;img src=&#34;autumn-leaves.jpg&#34; style=&#34;width:640px&#34; width=&#34;640&#34;&gt;&lt;/div&gt;&#xA;&lt;!--&#xA;&lt;div style=&#34;overflow:hidden&#34;&gt;&lt;img src=&#34;autumn-leaves.jpg&#34; style=&#34;margin: 0 2em 2em 0; float: left; width:200px; height:auto; border:0&#34; width=&#34;380&#34; height=&#34;380&#34;&gt;&lt;/div&gt;&#xA;--&gt;</description>
+    </item>
+  </channel>
+</rss>

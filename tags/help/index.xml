@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Help on neoplonk blog</title>
+    <link>https://neogomo.github.io/tags/help/</link>
+    <description>Recent content in Help on neoplonk blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://neogomo.github.io/tags/help/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://neogomo.github.io/posts/introduction/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://neogomo.github.io/posts/introduction/</guid>
+      <description>&lt;p&gt;Hugo is an open-source project and lives by the work of its contributors. There are plenty of open issues, and we need your help to make Hugo even more awesome. You don&amp;rsquo;t need to be a Go guru to contribute to the project&amp;rsquo;s development. &lt;!-- readmore --&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What is Hugo</title>
+      <link>https://neogomo.github.io/posts/what-is-hugo/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://neogomo.github.io/posts/what-is-hugo/</guid>
+      <description>&lt;p&gt;Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.&lt;/p&gt;&#xA;&lt;p&gt;Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors. &lt;!-- readmore --&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

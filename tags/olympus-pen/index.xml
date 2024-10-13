@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olympus PEN on neoplonk blog</title>
+    <link>http://localhost:1313/tags/olympus-pen/</link>
+    <description>Recent content in Olympus PEN on neoplonk blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/olympus-pen/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
