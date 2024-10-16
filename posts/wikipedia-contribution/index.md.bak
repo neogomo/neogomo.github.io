@@ -1,0 +1,33 @@
++++
+title = 'Two Diagrams for Wikipedia Article'
+date = 2024-10-15T11:42:12+02:00
+summary = 'This summary is independent of the content.'
+draft = false
++++
+My little contribution to Wikipedia are these <!-- readmore -->two visualizations to accompany an article. Here is how I created them.
+<div style="margin:0 25px 0 0;padding:0;float:left"><img src="PAR-1to1.png" style="width:400px" width="400"></div>
+<div style="margin:0;padding:0"><img src="PAR-2to1.png" style="width:400px" width="400"></div>
+<p></p>
+<p>You can find these two visualizations on Wikipedia. They are part of the article about [Pixel aspect ratios](https://en.wikipedia.org/wiki/Pixel_aspect_ratio) (PAR) in digital imaging. Another contributor over there took the time to re-create them in SVG format, which is very commendable.</p>
+<p>My intention for them was to show that even if you display images on devices with different pixel aspect ratios, they can result in visually the same images, if the resolution is high enough, or the distance from the observer large enough.</p>
+<p>To better illustrate this on a magnified version of a small scale diagram, I thought that bands of various color, preferably at an angle other than 90°, would make this possible. And luckily enough, I even had a photo in mind, that I had taken a while ago.</p>
+<p>Now you may be wondering what object could that be, that got embellished with such harmonizing colorful bands? Glad you asked, here it is:</p>
+
+
+[Grand Canyon](https://en.wikipedia.org/w/index.php?title=Grand_Canyon&oldid=952699432)
+
+[Pixel aspect ratios](https://en.wikipedia.org/wiki/Pixel_aspect_ratio)
+
+Explore the wonders of the [Natural History Museum](https://www.nhm.ac.uk/)
+
+
+[Pixel aspect ratios](https://en.wikipedia.org/wiki/Pixel_aspect_ratio)
+
+
+You can find these two visualizations on Wikipedia. They are part of the article about [Pixel aspect ratios](https://en.wikipedia.org/wiki/Pixel_aspect_ratio) (PAR) in digital imaging. Another contributor over there took the time to re-create them in SVG format, which is very commendable.
+
+My intention for them was to show that even if you display images on devices with different pixel aspect ratios, they can result in visually the same images, if the resolution is high enough, or the distance from the observer large enough.
+
+To better illustrate this on a magnified version of a small scale diagram, I thought that bands of various color, preferably at an angle other than 90°, would make this possible. And luckily enough, I even had a photo in mind, that I had taken a while ago.
+
+Now you may be wondering what object could that be, that got embellished with such harmonizing colorful bands? Glad you asked, here it is:
