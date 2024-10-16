@@ -73,7 +73,21 @@
 
 
 
-    <p>My little contribution to Wikipedia are these 
+    <style scoped>
+/* 0 to 299 */
+.on-the-fly-behavior {
+    width: 100%; 
+}
+/* 300 to X */
+@media (min-width: 650px) { /* or 301 if you want really the same as previously.  */
+    .on-the-fly-behavior {   
+            width: 600px; 
+
+    }
+}
+</style>
+<p><span class="on-the-fly-behavior"></span></p>
+<p>My little contribution to Wikipedia are these 
     <a href="https://neogomo.github.io/posts/wikipedia-contribution/"><i>Read&nbsp;more&nbsp;…&nbsp;</i></a> 
 
 
