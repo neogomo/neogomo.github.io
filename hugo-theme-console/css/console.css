@@ -346,6 +346,14 @@ figure {
             minmax(calc(var(--page-width) / 4), 1fr));
 }
 
+/* set every image link box element height to auto */
+.image-grid a {
+    margin-bottom: auto;
+}
+
+
+
+
 .terminal-prompt::after {
     -webkit-animation: cursor 1s /* infinite */;
     animation: cursor 1s /* infinite */;
