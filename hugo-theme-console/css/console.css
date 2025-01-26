@@ -503,7 +503,7 @@ div.post {
 }
 end off */
 @media only screen and (min-width: 540px) {
-    div.head-width {
+    span.max-head-chars {
       width: 57ch;
     } 
 }
