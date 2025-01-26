@@ -502,4 +502,10 @@ div.post {
     } 
 }
 
+@media only screen and (min-width: 1300px) {
+    div.head-width {
+      width: 20ch;
+    } 
+}
+
 /* neogomo end */
