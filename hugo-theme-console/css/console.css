@@ -507,7 +507,7 @@ h1 span {
 }
 end off */
 @media only screen and (min-width: 540px) {
-    span.max-head-chars {
+    h1 span {
       width: 57ch;
     } 
 }
