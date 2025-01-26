@@ -346,7 +346,7 @@ figure {
             minmax(calc(var(--page-width) / 4), 1fr));
 }
 
-/* set every image link box element height to auto */
+/* set every image link box element height to auto - by neogomo */
 .image-grid a {
     margin-bottom: auto;
 }
