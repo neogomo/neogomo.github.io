@@ -502,6 +502,10 @@ div.post {
     } 
 }
 end off */
+h1 span {
+  display: inline-block;
+}
+
 @media only screen and (min-width: 540px) {
     span.max-head-chars {
       width: 57ch;
