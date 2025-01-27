@@ -506,10 +506,18 @@ h1 span {
   display: inline-block;
 }
 end off */
+
 @media only screen and (min-width: 540px) {
     h1 {
       width: 57ch;
     } 
+}
+
+.align-helper {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  background: blue;
 }
 
 /* neogomo end */
