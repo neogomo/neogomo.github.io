@@ -507,8 +507,6 @@ h1 span {
 }
 end off */
 
-html {background-color: red}
-
 
 @media only screen and (min-width: 540px) {
     h1 {
