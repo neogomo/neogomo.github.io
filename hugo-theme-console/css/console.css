@@ -261,9 +261,11 @@ h6,
     clear: both;
 }
 
+/* did I (neogomo) add this or was it already there?
 h1 {
     margin-bottom: 150px;
 }
+*/
 
 .content-column-content p,
 .content-column-content li {
