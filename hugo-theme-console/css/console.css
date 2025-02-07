@@ -523,4 +523,8 @@ end off */
   background: blue;
 }
 
+#greatblur {
+  scroll-margin-top: 100px;
+}
+
 /* neogomo end */
