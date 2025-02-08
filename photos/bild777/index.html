@@ -46,11 +46,16 @@ function leftArrowPressed() {
    // Your stuff here
         var url= "https://neogomo.github.io/photos/bild773/"; 
     window.location = url; 
-
 }
 
 function rightArrowPressed() {
    // Your stuff here
+}
+
+function mPressed() {
+   // Your stuff here
+        var url= "https://neogomo.github.io/photos/#phone"; 
+    window.location = url; 
 }
 
 document.onkeydown = function(evt) {
@@ -61,6 +66,9 @@ document.onkeydown = function(evt) {
             break;
         case 39:
             rightArrowPressed();
+            break;
+        case 77:
+            mPressed();
             break;
     }
 };
