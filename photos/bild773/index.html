@@ -39,6 +39,36 @@
 <meta name="twitter:title" content="Ricoh GR"/>
 <meta name="twitter:description" content="Ricoh Pentax Shot with Ricoh GR."/>
 
+
+<script>
+
+function leftArrowPressed() {
+   // Your stuff here
+        var url= "https://neogomo.github.io/photos/bild7770/"; 
+
+}
+
+function rightArrowPressed() {
+   // Your stuff here
+        var url= "https://neogomo.github.io/photos/bild777/"; 
+    window.location = url; 
+}
+
+document.onkeydown = function(evt) {
+    evt = evt || window.event;
+    switch (evt.keyCode) {
+        case 37:
+            leftArrowPressed();
+            break;
+        case 39:
+            rightArrowPressed();
+            break;
+    }
+};
+
+</script> 
+
+    
 </head>
 <body class="terminal">
     <div class="container">
