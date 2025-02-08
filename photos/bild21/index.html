@@ -40,9 +40,30 @@
 <meta name="twitter:description" content="Taken with Olympus PEN camera"/>
 
 
-<script> 
-    var url= "http://www.google.com"; 
+<script>
+
+function leftArrowPressed() {
+   // Your stuff here
+}
+
+function rightArrowPressed() {
+   // Your stuff here
+        var url= "http://www.google.com"; 
     window.location = url; 
+}
+
+document.onkeydown = function(evt) {
+    evt = evt || window.event;
+    switch (evt.keyCode) {
+        case 37:
+            leftArrowPressed();
+            break;
+        case 39:
+            rightArrowPressed();
+            break;
+    }
+};
+
 </script> 
     
     
