@@ -509,6 +509,11 @@ h1 span {
 }
 end off */
 
+@media only screen and (max-width: 400px) {
+    .container, .container-fluid {
+      padding: 0;
+    } 
+}
 
 @media only screen and (min-width: 540px) {
     h1 {
