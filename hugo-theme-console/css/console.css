@@ -521,6 +521,18 @@ end off */
     }
 }
 
+@media only screen and (max-width: 540px) {
+    #banner_full {
+      display: none;
+    }
+}
+
+@media only screen and (min-width: 541px) {
+    #banner_mobile {
+      display: none;
+    }
+}
+
 @media only screen and (min-width: 401px) {
     #portrait_mobile {
       display: none;
