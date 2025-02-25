@@ -515,7 +515,16 @@ end off */
     }
     .footer {
       padding-left: 1rem;
-    } 
+    }
+    #portrait_full {
+      display: none;
+    }
+}
+
+@media only screen and (min-width: 401px) {
+    #portrait_mobile {
+      display: none;
+    }
 }
 
 @media only screen and (min-width: 540px) {
