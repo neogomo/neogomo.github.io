@@ -513,9 +513,9 @@ end off */
     .container, .container-fluid {
       padding: 10px;
     }
-    .footer {
+    /*.footer {
       padding-left: 1em;
-    }
+    }*/
     #portrait_full {
       display: none;
     }
