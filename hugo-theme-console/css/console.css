@@ -540,11 +540,13 @@ end off */
     }
 }
 
+/*
 @media only screen and (min-width: 540px) {
     h1 {
       width: 53ch;
     } 
 }
+*/
 
 .align-helper {
   display: inline-block;
