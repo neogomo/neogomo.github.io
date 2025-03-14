@@ -39,6 +39,48 @@
 <meta name="twitter:title" content="Valeria Frattini"/>
 <meta name="twitter:description" content="Taken with Olympus PEN camera"/>
 
+
+
+<script>
+
+function leftArrowPressed() {
+   // Your stuff here
+        var url= "https://neogomo.github.io/photos/bild28/";
+    window.location = url;
+}
+
+function rightArrowPressed() {
+   // Your stuff here
+        var url= "https://neogomo.github.io/photos/bild40/";
+    window.location = url;
+}
+
+function mPressed() {
+   // Your stuff here
+        var url= "https://neogomo.github.io/photos/";
+    window.location = url;
+}
+
+document.onkeydown = function(evt) {
+    evt = evt || window.event;
+    switch (evt.keyCode) {
+        case 37:
+            leftArrowPressed();
+            break;
+        case 39:
+            rightArrowPressed();
+            break;
+        case 77:
+            mPressed();
+            break;
+    }
+};
+
+</script> 
+
+
+
+    
 </head>
 <body class="terminal">
     <div class="container">
@@ -72,7 +114,7 @@
     
     
         
-        <img src="/photos/bild75/bild52_hu2638683643711691942.jpg" alt="bild52.jpg" class="img-responsive gallery-image">
+        <img src="bild75-640.jpg" alt="bild75-640.jpg" class="img-responsive gallery-image">
     
 
 
