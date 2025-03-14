@@ -39,6 +39,48 @@
 <meta name="twitter:title" content="Serene Beauty of Nature"/>
 <meta name="twitter:description" content="Taken with Olympus PEN camera"/>
 
+
+
+<script>
+
+function leftArrowPressed() {
+   // Your stuff here
+        var url= "https://neogomo.github.io/photos/bild5/";
+    window.location = url;
+}
+
+function rightArrowPressed() {
+   // Your stuff here
+        var url= "https://neogomo.github.io/photos/bild75/";
+    window.location = url;
+}
+
+function mPressed() {
+   // Your stuff here
+        var url= "https://neogomo.github.io/photos/";
+    window.location = url;
+}
+
+document.onkeydown = function(evt) {
+    evt = evt || window.event;
+    switch (evt.keyCode) {
+        case 37:
+            leftArrowPressed();
+            break;
+        case 39:
+            rightArrowPressed();
+            break;
+        case 77:
+            mPressed();
+            break;
+    }
+};
+
+</script> 
+
+
+
+    
 </head>
 <body class="terminal">
     <div class="container">
