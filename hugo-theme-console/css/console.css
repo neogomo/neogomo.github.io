@@ -548,6 +548,15 @@ end off */
 }
 */
 
+a.prevnext {
+  color: #888;
+  background: transparent;
+}
+a.prevnext:hover {
+  color: #000
+}
+
+
 .align-helper {
   display: inline-block;
   height: 100%;
