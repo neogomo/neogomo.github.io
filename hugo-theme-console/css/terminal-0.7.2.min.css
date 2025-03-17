@@ -177,7 +177,8 @@ pre code {
     -webkit-animation: cursor .8s infinite;
     animation: cursor .8s infinite;
     
-    background:  rgb(180, 226, 90); /*  #3c125a;   #db1ae0  rgb(255, 187, 0) */
+    /* background:  rgb(180, 226, 90);  #3c125a;   #db1ae0  rgb(255, 187, 0) */
+    background: #ffda45;
     border-radius: 0;
     display: inline-block;
     height: 1em;
