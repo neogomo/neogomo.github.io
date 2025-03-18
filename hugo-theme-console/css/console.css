@@ -334,9 +334,10 @@ figure {
 /*  font-size: .8rem; */
     clear: both;
     margin-top: 100px;
-    padding-top: 10px;;
+    padding-top: 10px;
     border-top: 10px solid var(--secondary-color);
-    color: var(--global-font-color);
+    color: #ccc;
+    /* color: var(--global-font-color); */
 }
 
 .image-grid {
