@@ -333,7 +333,7 @@ figure {
 .footer {
 /*  font-size: .8rem; */
     clear: both;
-    margin-top: 80px; /* orig. was 100px; */
+    margin-top: 100px; /* orig. was 100px; */
     padding-top: 10px;
     border-top: 10px solid #ccc; /* orig. was: border-top: 10px solid var(--secondary-color); */
     color: var(--global-font-color);
