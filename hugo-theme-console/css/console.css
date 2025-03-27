@@ -336,6 +336,7 @@ figure {
     max-width: 450px;
     font-family: Verdana, Helvetica, Trebuchet, sans-serif;
     font-size: 10.5px; /*  font-size: .8rem; */
+    text-align: center;
     clear: both;
     /* border-top: 10px solid #ccc; ** orig. was: border-top: 10px solid var(--secondary-color); */
 
