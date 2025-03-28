@@ -336,7 +336,7 @@ figure {
     padding-left: 20px;
     padding-bottom: 10px;
     max-width: 450px;
-    font-family: Verdana, Helvetica, Trebuchet, sans-serif;
+    /* font-family: Verdana, Helvetica, Trebuchet, sans-serif; */
     font-size: 12px; /*  font-size: .8rem; */
     /* text-transform: uppercase; */
     clear: both;
@@ -345,7 +345,7 @@ figure {
   
     color: #888; /* orig. was: color: var(--global-font-color); */
 
-    background: #ccc;
+    background: yellow;
     border-radius: 5px;
 }
 
